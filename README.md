@@ -1,3 +1,4 @@
+![banner](./banner.png)
 # SaaS Automated Engine
 
 This repository contains a full-stack SaaS application built with a React frontend and an Express backend, utilizing PostgreSQL for data storage.
